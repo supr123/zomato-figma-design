@@ -19,3 +19,14 @@ The designs reflect the structure and branding of Zomato's homepage and value pr
 - 🧩 Figma Desktop App
 - 🎨 Font: Poppins
 - 📁 Exported as PNG + GIF assets
+
+- ## 📱 Phone Animation Section
+
+This section mimics the Zomato animation where the phone appears after a delay.
+
+### 🟣 Step 1: Before the phone appears
+![Without Phone](./without-phone.png)
+
+### 🔵 Step 2: After the phone appears
+![With Phone](./with-phone.png)
+
